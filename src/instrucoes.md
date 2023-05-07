@@ -5,7 +5,7 @@
 - :white_check_mark: [React] componente usando props.children
 - :white_check_mark: [React] componente usando props
 - :white_check_mark: [React] componente com eventos
-- :red_circle: [React] componente com estado
+- :white_check_mark: [React] componente com estado
 - :red_circle: [React] comunicação entre componentes (direta)
 - :red_circle: [React] comunicação entre componentes (indireta)
 - :red_circle: [React] renderização condicional
