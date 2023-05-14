@@ -9,11 +9,11 @@ const Avo = (props: AvoProps) => {
   return (
     <div
       className={`
-    flex flex-col gap-5 p-5 rounded-md
+    flex flex-col gap-5 p-2 rounded-md 
     bg-purple-500 text-white border border-white
     `}
     >
-      <div className="flex justify-center gap-2 text-2xl">
+      <div className="flex justify-center gap-2 text-md">
         <span className="font-black">Avô</span>
         <span>{props.nome}</span>
         <span>{props.sobrenome}</span>
